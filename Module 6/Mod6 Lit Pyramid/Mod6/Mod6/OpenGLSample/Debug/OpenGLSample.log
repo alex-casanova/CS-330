@@ -1,0 +1,11 @@
+﻿  Mod5.cpp
+C:\Users\alexj\Downloads\Mod5 Textured Pyramid\Mod5\Mod5\OpenGLSample\Mod5.cpp(274,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Textured Pyramid\Mod5\Mod5\OpenGLSample\Mod5.cpp(452,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Textured Pyramid\Mod5\Mod5\OpenGLSample\Mod5.cpp(453,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Textured Pyramid\Mod5\Mod5\OpenGLSample\Mod5.cpp(457,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Textured Pyramid\Mod5\Mod5\OpenGLSample\Mod5.cpp(458,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Textured Pyramid\Mod5\Mod5\OpenGLSample\Mod5.cpp(460,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Textured Pyramid\Mod5\Mod5\OpenGLSample\Mod5.cpp(461,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Textured Pyramid\Mod5\Mod5\OpenGLSample\Mod5.cpp(471,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\alexj\Downloads\Mod5 Textured Pyramid\Mod5\Mod5\Debug\OpenGLSample.exe

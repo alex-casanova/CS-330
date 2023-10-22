@@ -1,0 +1,14 @@
+﻿  Mod5.cpp
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(253,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(417,45): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(423,45): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(450,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(451,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(455,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(456,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(458,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(459,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(468,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\OpenGLSample\Mod5.cpp(543,23): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\alexj\Downloads\Mod6 Lit Pyramid\Mod6\Mod6\Debug\OpenGLSample.exe

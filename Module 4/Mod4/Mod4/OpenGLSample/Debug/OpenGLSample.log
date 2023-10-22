@@ -1,0 +1,13 @@
+﻿  Mod3.cpp
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(130,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(242,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(243,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(247,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(248,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(250,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(251,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(262,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(436,24): warning C4101: 'vbo2': unreferenced local variable
+C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\OpenGLSample\Mod3.cpp(436,18): warning C4101: 'vao2': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\alexj\Downloads\FINAL\Module 3 3D Pyramid\Debug\OpenGLSample.exe

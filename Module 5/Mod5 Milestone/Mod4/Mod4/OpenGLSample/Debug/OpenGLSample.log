@@ -1,0 +1,11 @@
+﻿  Mod5.cpp
+C:\Users\alexj\Downloads\Mod4\Mod4\OpenGLSample\Mod5.cpp(175,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod4\Mod4\OpenGLSample\Mod5.cpp(348,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod4\Mod4\OpenGLSample\Mod5.cpp(349,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod4\Mod4\OpenGLSample\Mod5.cpp(353,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod4\Mod4\OpenGLSample\Mod5.cpp(354,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod4\Mod4\OpenGLSample\Mod5.cpp(356,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod4\Mod4\OpenGLSample\Mod5.cpp(357,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod4\Mod4\OpenGLSample\Mod5.cpp(367,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\alexj\Downloads\Mod4\Mod4\Debug\OpenGLSample.exe

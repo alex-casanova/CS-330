@@ -1,0 +1,10 @@
+﻿  Mod5.cpp
+C:\Users\alexj\Downloads\Mod5 Milestone (1)\Mod4\Mod4\OpenGLSample\Mod5.cpp(263,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Milestone (1)\Mod4\Mod4\OpenGLSample\Mod5.cpp(441,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Milestone (1)\Mod4\Mod4\OpenGLSample\Mod5.cpp(442,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Milestone (1)\Mod4\Mod4\OpenGLSample\Mod5.cpp(446,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Milestone (1)\Mod4\Mod4\OpenGLSample\Mod5.cpp(447,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Milestone (1)\Mod4\Mod4\OpenGLSample\Mod5.cpp(449,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Milestone (1)\Mod4\Mod4\OpenGLSample\Mod5.cpp(450,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexj\Downloads\Mod5 Milestone (1)\Mod4\Mod4\OpenGLSample\Mod5.cpp(460,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\alexj\Downloads\Mod5 Milestone (1)\Mod4\Mod4\Debug\OpenGLSample.exe

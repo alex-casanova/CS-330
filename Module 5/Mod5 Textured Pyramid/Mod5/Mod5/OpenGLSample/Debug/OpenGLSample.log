@@ -1,0 +1,2 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\alexj\Downloads\Mod4\Mod4\Debug\OpenGLSample.exe
